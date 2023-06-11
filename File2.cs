@@ -9,3 +9,7 @@ void method4()
     // method4 code goes here    
 }
 
+void method6()
+{
+    
+}
