@@ -8,3 +8,8 @@ void method4()
 {
     
 }
+
+void method6()
+{
+    
+}
