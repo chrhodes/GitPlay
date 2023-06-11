@@ -1,7 +1,7 @@
 // File1
 void method1()
 {
-    // method1 code goes here
+    // Add code here
 }
 
 void method2()
@@ -12,4 +12,5 @@ void method2()
 void method5()
 {
     // method5 code goes here    
+    // Add code here    
 }
